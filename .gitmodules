@@ -10,9 +10,12 @@
 [submodule "dotsync"]
 	path = dotsync
 	url = https://github.com/dotphiles/dotsync.git
+	branch = master
 [submodule "zsh/dotzsh"]
 	path = zsh/dotzsh
-	url = https://github.com/dotphiles/dotzsh.git
+	url = https://github.com/jayghickman/dotzsh.git
+	branch = master
 [submodule "vim/dotvim"]
 	path = vim/dotvim
-	url = https://github.com/dotphiles/dotvim.git
+	url = https://github.com/jayghickman/dotvim.git
+	branch = master
